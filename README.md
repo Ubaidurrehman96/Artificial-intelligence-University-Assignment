@@ -1,2 +1,2 @@
-# AI-Agent-Food-Recommendation-Uni-Assignment-
-A simple AI agent that recommends restaurants based on location, budget, and food preference — built using the PEAS framework.
+# Artificial Intelligence Assignments
+This repository contains all assignments and practical work related to the Artificial Intelligence course, including simple AI agents and other concepts.
